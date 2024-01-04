@@ -1,0 +1,1 @@
+In this asignment i was given starter code for the html and css and i was asked to do the javascript wihich ask for specific requirments for your password such as lenght and wether you want capitals or lowwerces along with special symbols.
